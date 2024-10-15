@@ -1,0 +1,10 @@
+E:\secod semester\stop watch\stop watch\bin\Debug\stop watch.exe.config
+E:\secod semester\stop watch\stop watch\bin\Debug\stop watch.exe
+E:\secod semester\stop watch\stop watch\bin\Debug\stop watch.pdb
+E:\secod semester\stop watch\stop watch\obj\Debug\stop watch.csproj.AssemblyReference.cache
+E:\secod semester\stop watch\stop watch\obj\Debug\stop_watch.Form1.resources
+E:\secod semester\stop watch\stop watch\obj\Debug\stop_watch.Properties.Resources.resources
+E:\secod semester\stop watch\stop watch\obj\Debug\stop watch.csproj.GenerateResource.cache
+E:\secod semester\stop watch\stop watch\obj\Debug\stop watch.csproj.CoreCompileInputs.cache
+E:\secod semester\stop watch\stop watch\obj\Debug\stop watch.exe
+E:\secod semester\stop watch\stop watch\obj\Debug\stop watch.pdb
